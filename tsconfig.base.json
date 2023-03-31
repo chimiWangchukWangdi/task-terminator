@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@cnc-nextjs-template-fe/data": ["libs/data/src/index.ts"],
+      "@cnc-nextjs-template-fe/todo": ["apps/todo-app/"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

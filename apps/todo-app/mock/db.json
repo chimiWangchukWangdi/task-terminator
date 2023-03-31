@@ -1,0 +1,69 @@
+{
+  "todos": [
+    {
+      "title": "Title-1",
+      "description": "This is title one",
+      "completed": "In-Progress",
+      "priority": "MEDIUM",
+      "createdAt": "Mon Mar 27 2023 20:20:38 GMT+0600 (Bhutan Time)",
+      "id": 1
+    },
+    {
+      "title": "Title-2",
+      "description": "This is title two",
+      "completed": "in progress",
+      "priority": "MEDIUM",
+      "createdAt": "Fri Mar 24 2023 19:14:10 GMT+0600 (Bhutan Time)",
+      "id": 3
+    },
+    {
+      "title": "Title-3",
+      "description": "This is title three",
+      "completed": "in progress",
+      "priority": "LOW",
+      "createdAt": "Fri Mar 24 2023 19:14:21 GMT+0600 (Bhutan Time)",
+      "id": 4
+    },
+    {
+      "title": "Title-4",
+      "description": "This is title four",
+      "completed": "Completed",
+      "priority": "HIGH",
+      "createdAt": "Fri Mar 24 2023 19:14:31 GMT+0600 (Bhutan Time)",
+      "id": 5
+    },
+    {
+      "title": "Title-5",
+      "description": "This is title six",
+      "completed": "In-Progress",
+      "createdAt": "Mon Mar 27 2023 10:33:39 GMT+0600 (Bhutan Time)",
+      "id": 6,
+      "priority": "MEDIUM"
+    },
+    {
+      "priority": "HIGH",
+      "completed": "Completed",
+      "title": "Title-6",
+      "description": "this is title six",
+      "createdAt": "Mon Mar 27 2023 12:12:53 GMT+0600 (Bhutan Time)",
+      "id": 8
+    },
+    {
+      "priority": "HIGH",
+      "completed": "In-Progress",
+      "title": "Title-7",
+      "description": "this is title seven",
+      "createdAt": "Fri Mar 31 2023 11:43:00 GMT+0600 (Bhutan Time)",
+      "id": 9
+    },
+    {
+      "priority": "HIGH",
+      "completed": "in progress",
+      "title": "asdf",
+      "description": "asdf",
+      "createdAt": "Fri Mar 31 2023 12:52:53 GMT+0600 (Bhutan Time)",
+      "id": 10
+    }
+  ],
+  "users": []
+}
